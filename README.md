@@ -45,11 +45,7 @@
 - `sudo chmod +x ./FILENAME.sh`
 
 
-* [Hello](#hello)  
-blebleble
 
-
-## Hello
 
 
 
